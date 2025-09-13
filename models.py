@@ -8,7 +8,7 @@ from datetime import datetime
 from enum import Enum
 from typing import List, Optional
 import uuid
-
+from datetime import timedelta
 
 class TaskStatus(Enum):
     """Enumeration for task status values."""
@@ -87,9 +87,12 @@ class Task:
             self.updated_at = datetime.now()
 
     def update_status(self, status: TaskStatus) -> None:
-        """Update task status."""
-        self.status = status
-        self.updated_at = datetime.now()
+            # if created_at > 5 days ago set status to done
+            if self.created_at < datetime.now() - timedelta(days=5):
+                self.status = TaskStatus.DONE
+            else:
+                self.status = status
+            self.updated_at = datetime.now()  
 
     def to_dict(self) -> dict:
         """Convert task to dictionary representation."""
