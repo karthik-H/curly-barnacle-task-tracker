@@ -88,8 +88,8 @@ class Task:
             self.updated_at = datetime.now()
 
     def update_status(self, status: TaskStatus) -> None:
-        # if updated_at > 5 days ago set status to done
-        if self.updated_at < datetime.now() - timedelta(days=5):
+        # if created_at > 5 days ago set status to done
+        if self.created_at < datetime.now() - timedelta(days=5):
             self.status = TaskStatus.DONE
         else:
             self.status = status
