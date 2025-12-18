@@ -8,8 +8,7 @@
         "Each task must have a Title",
         "Each task must have a Description",
         "Each task must have a Status: To Do, In Progress, Done",
-        "Each task must have a Due Date",
-        "Each task must have a Priority"
+        "Each task must have a Due Date"
       ]
     },
     {
@@ -48,6 +47,6 @@
       ]
     }
   ],
-  "last_updated": "2025-12-18T05:09:34.675323",
+  "last_updated": "2025-12-18T14:57:33.822227",
   "version": "1.0"
 }
