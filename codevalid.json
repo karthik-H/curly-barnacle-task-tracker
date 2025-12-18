@@ -46,8 +46,16 @@
       "conditions": [
         "Main program must accept CLI arguments to perform all operations described above"
       ]
+    },
+    {
+      "header": "Storage",
+      "description": "All data is stored in memory using variables. No external storage is used.",
+      "conditions": [
+        "No external storage (e.g., database, files)",
+        "All data stored in variables (in-memory)"
+      ]
     }
   ],
-  "last_updated": "2025-12-18T01:45:15.635947",
+  "last_updated": "2025-12-18T01:45:26.970205",
   "version": "1.0"
 }
