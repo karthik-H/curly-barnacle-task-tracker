@@ -32,8 +32,7 @@ A simple Task Tracker application to manage tasks and users with a lightweight i
   - By **Due Date**
 
 ### 5. CLI Program
-- Provide a main program with CLI arguments to perform all operations above. 
-
+- Provide a main program with CLI arguments to perform all operations above.   
 
 ## Deliverables
 
