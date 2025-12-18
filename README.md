@@ -13,8 +13,8 @@ A simple Task Tracker application to manage tasks and users with a lightweight i
   - **Unique ID**
   - **Title**
   - **Description**
-  - **Status**: `To Do`
-
+  - **Status**: `To Do` 
+ 
 ### 2. User Management
 - Add, edit, delete users.
 - Each user should have:
