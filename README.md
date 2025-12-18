@@ -9,7 +9,7 @@ A simple Task Tracker application to manage tasks and users with a lightweight i
 
 ### 1. CRUD for Tasks
 - Create, Read, Update, Delete tasks.
-- Each task should have:
+- Each task should have: 
   - **Unique ID**
   - **Title**
   - **Description**
