@@ -2,27 +2,26 @@
   "breakdowns": [
     {
       "header": "CRUD for Tasks",
-      "description": "Create, Read, Update, and Delete tasks.",
+      "description": "Create, Read, Update, Delete tasks.",
       "conditions": [
-        "Each task must have a Unique ID",
-        "Each task must have a Title",
-        "Each task must have a Description",
-        "Each task must have a Status: To Do, In Progress"
+        "Each task should have a Unique ID",
+        "Each task should have a Title",
+        "Each task should have a Description",
+        "Each task should have a Status"
       ]
     },
     {
       "header": "User Management",
-      "description": "Add, edit, and delete users.",
+      "description": "Add, edit, delete users.",
       "conditions": [
-        "Each user must have a Unique ID",
-        "Each user must have a Name",
-        "Each user must have an Email",
-        "Each user must have a Role"
+        "Each user should have a Unique ID",
+        "Each user should have a Name",
+        "Each user should have an email"
       ]
     },
     {
       "header": "Assign & Reassign Tasks",
-      "description": "Assign one or more users to a task and reassign users without deleting the task.",
+      "description": "Assign one or more users to a task. Reassigning updates the task\u2019s assignees without deleting the task.",
       "conditions": [
         "Assign one or more users to a task",
         "Reassigning updates the task\u2019s assignees without deleting the task"
@@ -34,8 +33,7 @@
       "conditions": [
         "Filter tasks by User",
         "Filter tasks by Status",
-        "Filter tasks by Due Date",
-        "Filter tasks by Priority"
+        "Filter tasks by Due Date"
       ]
     },
     {
@@ -46,6 +44,6 @@
       ]
     }
   ],
-  "last_updated": "2025-12-18T16:11:00.219950",
+  "last_updated": "2025-12-18T18:30:28.552824",
   "version": "1.0"
 }
