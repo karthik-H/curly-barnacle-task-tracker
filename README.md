@@ -20,7 +20,6 @@ A simple Task Tracker application to manage tasks and users with a lightweight i
 - Each user should have:
   - **Unique ID**
   - **Name**
-  - **Email** 
  
 ### 3. Assign & Reassign Tasks
 - Assign one or more users to a task.
