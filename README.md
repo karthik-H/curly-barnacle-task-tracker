@@ -39,11 +39,6 @@ A simple Task Tracker application to manage tasks and users with a lightweight i
 ### 5. CLI Program
 - Provide a main program with CLI arguments to perform all operations above.
 
-### 6. Storage
-- No external storage (e.g., database, files).
-- All data stored in **variables (in-memory)**.
-
----
 
 ## Deliverables
 
