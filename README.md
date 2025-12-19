@@ -5,7 +5,7 @@ A  simple Task Tracker  application to manage tasks and us ers with a  lightweig
    
 ---      
   
-## Features 
+## Features  
  
 ### 1. CRUD for Tasks
 - Create, Read, Update, Delete tasks.
