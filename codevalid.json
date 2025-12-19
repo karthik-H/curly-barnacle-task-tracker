@@ -1,6 +1,7 @@
 {
   "breakdowns": [
     {
+      "id": "crud_for_tasks",
       "header": "CRUD for Tasks",
       "description": "Create, Read, Update, Delete tasks.",
       "conditions": [
@@ -11,6 +12,7 @@
       ]
     },
     {
+      "id": "user_management",
       "header": "User Management",
       "description": "Add, edit, delete users.",
       "conditions": [
@@ -20,6 +22,7 @@
       ]
     },
     {
+      "id": "assign_reassign_tasks",
       "header": "Assign & Reassign Tasks",
       "description": "Assign one or more users to a task. Reassigning updates the task\u2019s assignees without deleting the task.",
       "conditions": [
@@ -28,6 +31,7 @@
       ]
     },
     {
+      "id": "view_tasks",
       "header": "View Tasks",
       "description": "View tasks using filters.",
       "conditions": [
@@ -37,6 +41,7 @@
       ]
     },
     {
+      "id": "cli_program",
       "header": "CLI Program",
       "description": "Provide a main program with CLI arguments to perform all operations above.",
       "conditions": [
