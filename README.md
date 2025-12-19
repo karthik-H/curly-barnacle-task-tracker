@@ -13,7 +13,7 @@ A  simple Task Tracker  application to manage tasks and us ers with a  lightweig
   - **Unique ID** 
   - **Title**
   - **Description**
-  - **Status**:      
+  - **Status**:       
   
 ### 2. User Management
 - Add, edit, delete users.
