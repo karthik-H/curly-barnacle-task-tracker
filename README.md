@@ -9,7 +9,7 @@ A  simple Task Tracker  application to manage tasks and us ers with a  lightweig
 - Create, Read, Update, Delete tasks.
 - Each task should have:  
   - **Unique ID** 
-  - **Title**   
+  - **Title**    
   - **Description**
   - **Status**:       
   
