@@ -3,22 +3,24 @@
     {
       "id": "crud_for_tasks",
       "header": "CRUD for Tasks",
-      "description": "Create, Read, Update, Delete tasks.",
+      "description": "Create, Read, Update, and Delete tasks.",
       "conditions": [
-        "Each task should have a Unique ID",
-        "Each task should have a Title",
-        "Each task should have a Description",
-        "Each task should have a Status"
+        "Each task must have a Unique ID",
+        "Each task must have a Title",
+        "Each task must have a Description",
+        "Each task must have a Status",
+        "Each task must have a 'lastupdatedat' field",
+        "Status must be set to active during creation"
       ]
     },
     {
       "id": "user_management",
       "header": "User Management",
-      "description": "Add, edit, delete users.",
+      "description": "Add, edit, and delete users.",
       "conditions": [
-        "Each user should have a Unique ID",
-        "Each user should have a Name",
-        "Each user should have an email"
+        "Each user must have a Unique ID",
+        "Each user must have a Name",
+        "Each user must have an email"
       ]
     },
     {
@@ -47,8 +49,16 @@
       "conditions": [
         "Main program must accept CLI arguments to perform all operations described above"
       ]
+    },
+    {
+      "id": "ui_interaction",
+      "header": "UI Interaction",
+      "description": "Provide a UI to interact with the application.",
+      "conditions": [
+        "UI must allow interaction with the application"
+      ]
     }
   ],
-  "last_updated": "2025-12-18T18:30:28.552824",
+  "last_updated": "2025-12-21T21:01:36.088581",
   "version": "1.0"
 }
