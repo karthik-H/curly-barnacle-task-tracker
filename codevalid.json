@@ -3,7 +3,7 @@
     {
       "id": "crud_for_tasks",
       "header": "CRUD for Tasks",
-      "description": "Create, Read, Update, and Delete tasks.",
+      "description": "Create, read, update, and delete tasks.",
       "conditions": [
         "Each task must have a Unique ID",
         "Each task must have a Title",
@@ -59,6 +59,6 @@
       ]
     }
   ],
-  "last_updated": "2025-12-21T21:02:32.981970",
+  "last_updated": "2025-12-21T21:04:23.586781",
   "version": "1.0"
 }
