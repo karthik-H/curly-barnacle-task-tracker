@@ -17,7 +17,7 @@ A  simple Task Tracker  application to manage tasks and us ers with a  lightweig
 ### 2. User Management 
 - Add, edit, delete users.
 - Each user should have: 
-  - **Unique ID** 
+  - **Unique ID**  
   - **Name**, email
   
 ### 3. Assign & Reassign Tasks
