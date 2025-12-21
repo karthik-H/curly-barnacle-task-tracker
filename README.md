@@ -25,7 +25,7 @@ A  simple Task Tracker  application to manage tasks and us ers with a  lightweig
 - Reassigning updates the task’s assignees without deleting the task.
 
 ### 4. View Tasks
-- View tasks using filters:
+- View tasks using filters: 
   - By **User**
   - By **Status**
   - By **Due Date**
