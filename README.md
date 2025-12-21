@@ -11,7 +11,7 @@ A  simple Task Tracker  application to manage tasks and us ers with a  lightweig
 - Each task should have:  
   - **Unique ID** 
   - **Title**    
-  - **Description** 
+  - **Descri ption** 
   - **Status**:        
   - "lastupdatedat" 
 ### 2. User Management
