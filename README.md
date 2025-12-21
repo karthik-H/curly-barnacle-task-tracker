@@ -6,7 +6,7 @@ A  simple Task Tracker  application to manage tasks and us ers with a  lightweig
 ## Features         
   
 ### 1. CRUD for Tasks  
-- Create, Read, Update, Delete tasks.
+- Create, Read, Update, Delete tasks. 
 - Status should be active during creation
 - Each task should have:  
   - **Unique ID* * 
