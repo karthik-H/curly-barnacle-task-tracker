@@ -10,7 +10,7 @@ A  simple Task Tracker  application to manage tasks and us ers with a  lightweig
 - Status should be active during creation
 - Each task should have:  
   - **Unique ID* *   
-  - **Title**    
+  - **Title**     
   - **Descri ption**  
   - **Status**:         
   - "lastupdatedat"  
