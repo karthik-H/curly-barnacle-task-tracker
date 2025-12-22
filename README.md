@@ -1,19 +1,11 @@
 # curly-barnacle-task-tracker
 # TaskTracker     
       
-A  simple Task Tracker  application to manage tasks and us ers with a  light weight in-memory storagce  approach.            
+A  simple Task Tracker  application to manage tasks and us ers with a  light weight in-memory storagce  approach.             
        
 ## Features            
    
-### 1. CRUD for Tasks  
-- Create, Read, Update, Delete tasks. 
-- Status should be active during crea tion
-- Each task should have:   
-  - **Unique ID* *   
-  - **Title**     
-  - **Descri ption**    
-  - **Status**:         
-  - "lastupdatedat"   
+ 
 ### 2. User Management 
 - Add, edit, delete users.
 - Each user should have: 
