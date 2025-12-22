@@ -49,16 +49,8 @@
       "conditions": [
         "Main program must accept CLI arguments to perform all operations described above"
       ]
-    },
-    {
-      "id": "ui_interaction",
-      "header": "UI Interaction",
-      "description": "Provide a UI to interact with the application.",
-      "conditions": [
-        "UI must allow interaction with the application"
-      ]
     }
   ],
-  "last_updated": "2025-12-21T21:12:33.007807",
+  "last_updated": "2025-12-22T00:32:09.575183",
   "version": "1.0"
 }
