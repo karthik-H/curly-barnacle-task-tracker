@@ -4,7 +4,7 @@
 A  simple Task Tracker  application to manage tasks and us ers with a  lightweight in-memory storagce  approach .          
      
 ## Features            
-  
+   
 ### 1. CRUD for Tasks  
 - Create, Read, Update, Delete tasks. 
 - Status should be active during crea tion
