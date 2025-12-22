@@ -1,6 +1,19 @@
 {
   "breakdowns": [
     {
+      "id": "crud_tasks",
+      "header": "CRUD for Tasks",
+      "description": "Create, read, update, and delete tasks.",
+      "conditions": [
+        "Each task must have a Unique ID",
+        "Each task must have a Title",
+        "Each task must have a Description",
+        "Each task must have a Status",
+        "Status must be active during creation",
+        "Each task must have a lastupdatedat field"
+      ]
+    },
+    {
       "id": "user_management",
       "header": "User Management",
       "description": "Add, edit, and delete users.",
@@ -46,6 +59,6 @@
       ]
     }
   ],
-  "last_updated": "2025-12-22T01:21:52.709070",
+  "last_updated": "2025-12-22T01:22:16.199003",
   "version": "1.0"
 }
